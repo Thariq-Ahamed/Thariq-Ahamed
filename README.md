@@ -19,10 +19,10 @@
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=L2SYT&label=Profile%20Views&color=0071e3&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Thariq-Ahamed&label=Profile%20Views&color=0071e3&style=for-the-badge" alt="Profile Views" />
   <a href="https://linkedin.com/in/thariq-ahmed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://youtube.com/@L2SYT"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://thariqahamed.com"><img src="https://img.shields.io/badge/Portfolio-0071E3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://youtube.com/@Thariq-Ahamed"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://thariq-ahamed-portfolio.great-site.net"><img src="https://img.shields.io/badge/Portfolio-0071E3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:thariqmu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -54,8 +54,8 @@ languages:
 | 📧 Email | [thariqmu@gmail.com](mailto:thariqmu@gmail.com) |
 | 📱 Phone | +94 76 874 7372 |
 | 🔗 LinkedIn | [thariq-ahmed](https://linkedin.com/in/thariq-ahmed) |
-| 🌐 Portfolio | [thariqahamed.com](https://thariqahamed.com) |
-| ▶️ YouTube | [@L2SYT](https://youtube.com/@L2SYT) |
+| 🌐 Portfolio | [thariq-ahamed-portfolio.great-site.net](https://thariq-ahamed-portfolio.great-site.net) |
+| ▶️ YouTube | [@Thariq-Ahamed](https://youtube.com/@Thariq-Ahamed) |
 | 📍 Location | Colombo, Sri Lanka |
 
 </details>
@@ -123,7 +123,7 @@ languages:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=L2SYT&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Thariq-Ahamed&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
 </p>
 
 ---
@@ -210,13 +210,13 @@ languages:
 
 ---
 
-## 🎥 Content Creator — @L2SYT
+## 🎥 Content Creator — @Thariq-Ahamed
 
 I create developer efficiency content on YouTube covering **React**, **Next.js**, **Azure**, and **DevOps**.
 
 > **L2S = Lazy to Smart** — Building content for developers who want to work smarter, not just harder.
 
-<a href="https://youtube.com/@L2SYT">
+<a href="https://youtube.com/@Thariq-Ahamed">
   <img src="https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
 
