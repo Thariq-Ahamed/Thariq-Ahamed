@@ -120,14 +120,6 @@ languages:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Thariq-Ahamed&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
-</p>
-
----
-
 ## 💼 Professional Experience
 
 <table>
