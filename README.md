@@ -194,7 +194,7 @@ I create developer efficiency content on YouTube covering **React**, **Next.js**
 
 > **L2S = Lazy to Smart** — Building content for developers who want to work smarter, not just harder.
 
-<a href="https://youtube.com/@Thariq-Ahamed">
+<a href="https://youtube.com/@L2SYT">
   <img src="https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
 
