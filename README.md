@@ -21,7 +21,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Thariq-Ahamed&label=Profile%20Views&color=0071e3&style=for-the-badge" alt="Profile Views" />
   <a href="https://linkedin.com/in/thariq-ahmed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://youtube.com/@Thariq-Ahamed"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://youtube.com/@L2SYT"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://thariq-ahamed-portfolio.great-site.net"><img src="https://img.shields.io/badge/Portfolio-0071E3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:thariqmu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -55,7 +55,7 @@ languages:
 | 📱 Phone | +94 76 874 7372 |
 | 🔗 LinkedIn | [thariq-ahmed](https://linkedin.com/in/thariq-ahmed) |
 | 🌐 Portfolio | [thariq-ahamed-portfolio.great-site.net](https://thariq-ahamed-portfolio.great-site.net) |
-| ▶️ YouTube | [@Thariq-Ahamed](https://youtube.com/@Thariq-Ahamed) |
+| ▶️ YouTube | [@L2SYT](https://youtube.com/@L2SYT) |
 | 📍 Location | Colombo, Sri Lanka |
 
 </details>
