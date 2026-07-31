@@ -188,7 +188,7 @@ languages:
 
 ---
 
-## 🎥 Content Creator — @Thariq-Ahamed
+## 🎥 Content Creator — @L2SYT
 
 I create developer efficiency content on YouTube covering **React**, **Next.js**, **Azure**, and **DevOps**.
 
