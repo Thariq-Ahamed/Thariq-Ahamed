@@ -12,7 +12,7 @@
 <!-- Typing SVG Banner -->
 <p align="center">
   <a href="https://github.com/denvercoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?   font=Fira+Code&weight=600&size=20&pause=1000&color=0071E3&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=130&lines=Software+Engineer+%26+Customer%2FTechnical+Support+Pro;+C%23+%C2%B7+.NET+Core+%C2%B7+React.js+%C2%B7+TypeScript+%C2%B7+Azure;+Full-Stack+Dev+%C2%B7+DevOps+%C2%B7+QA+%C2%B7+App+Support+%C2%B7+CS;+Open+to+Remote+Opportunities+Worldwide" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0071E3&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=130&lines=Software+Engineer+%26+Customer%2FTechnical+Support+Pro;%7C+C%23+%C2%B7+.NET+Core+%C2%B7+React.js+%C2%B7+TypeScript+%C2%B7+Azure;%7C+Full-Stack+Dev+%C2%B7+DevOps+%C2%B7+QA+%C2%B7+App+Support+%C2%B7+CS;%7C+Open+to+Remote+Opportunities+Worldwide" alt="Typing SVG" />
   </a>
 </p>
 
