@@ -32,7 +32,7 @@
 
 ```yaml
 name: Mohamed Ubaidhullah Thariq Ahamed
-title: Web Developer
+title: Full-Stack Dev · DevOps · QA · App Support · CS
 location: Colombo, Sri Lanka
 company: INVORG (Toronto, ON — Remote)
 experience: 4+ years
